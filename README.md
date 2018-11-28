@@ -1,2 +1,2 @@
 # Project-Documents
-A repository of documetation.
+A repository of documentation.
